@@ -33,7 +33,6 @@ const QuoteMachine = ({ selectedQuote, assignNewQuoteIndex }) => {
           </IconButton>
         </CardActions>
       </Card>
-      ;
     </>
   );
 };
